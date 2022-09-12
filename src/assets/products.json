@@ -1,0 +1,49 @@
+[
+    {
+        
+        "id": 1,
+        "img": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-pro-max-01.jpg",
+        "title": "IPhone 13 Pro Max",
+        "price": 3000
+    },
+
+    {
+        
+        "id": 2,
+        "img": "https://img.zoommer.ge/zoommer-images/thumbs/0163977_samsung-galaxy-s22-ultra-5g-s908eds-8128-burgundy_550.jpeg",
+        "title": "Samsung Galaxy S22",
+        "price": 3100
+    },
+    
+    {
+        
+        "id": 3,
+        "img": "https://img.zoommer.ge/zoommer-images/thumbs/0157506_google-pixel-6-pro-5g-12128gb-stormy-black_550.jpeg",
+        "title": "Google Pixel 6 Pro",
+        "price": 2600
+    },
+
+    {
+        
+        "id": 4,
+        "img": "https://img.zoommer.ge/zoommer-images/thumbs/0131659_apple-iphone-11-2020-64gb-green_550.png",
+        "title": "IPhone 11",
+        "price": 1600
+    },
+
+    {
+        
+        "id": 5,
+        "img": "https://img.zoommer.ge/zoommer-images/thumbs/0156423_apple-watch-series-7-gps-45mm-midnight-aluminum-case-with-midnight-sport-band-mkn53_550.jpeg",
+        "title": "Apple Watch Series 7",
+        "price": 1400
+    },
+
+    {
+        
+        "id": 6,
+        "img": "https://img.zoommer.ge/zoommer-images/thumbs/0144415_apple-macbook-air-13-m1-chip-8gb256gb-lla-silver_550.jpeg",
+        "title": "Macbook Air 13 M1",
+        "price": 3300
+    }
+]

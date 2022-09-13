@@ -49,6 +49,7 @@ export default {
   animation: fade-in 1.2s;
   // margin-top: 40px;
   // border: 1px solid red;
+      margin-left: -70px !important;
   width: 845px;
   @keyframes fade-in{
     0%{margin-left: -130px; opacity: .1};

@@ -106,7 +106,7 @@ export default {
   &-item{
     margin-top: 10px;
     box-shadow: 0 0 2px black;
-    width: 110%;
+    width: 100%;
     border-radius: 3px;
     transition: .5s;
     button{
@@ -147,6 +147,7 @@ export default {
   *{
     padding: 0 !important;
     margin: 0 !important;
+    transform: none !important;
   }
   .cart{
     flex-direction: column;
@@ -168,9 +169,22 @@ export default {
       flex-direction: column;
       transform: translate(70px, 20px);
       .cart-item{
-        width: 84%;
-        margin-top: 5px !important;
-        transform: translateX(-9px)
+        width: 90%;
+        margin-top: 10px !important;
+        transform: translateX(-9px);
+        button{
+          transform: translate(-15px, -15px) !important;
+        }
+        .img-div{
+          margin-left: 3px !important;
+          img{
+            width: 90px; 
+            height: 110px;
+          }
+        }
+        .inner{
+          padding-left: 5px !important;
+        }
       }
     }
   }

@@ -73,6 +73,7 @@ export default {
 
 .prDetail{
     // box-shadow: 0 0 2px black;
+    margin-left: -70px !important;
     width: 90%;
     display: flex;
     justify-content: center;
